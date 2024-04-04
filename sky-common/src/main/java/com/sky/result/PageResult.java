@@ -1,5 +1,6 @@
 package com.sky.result;
 
+import com.sky.dto.EmployeePageQueryDTO;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

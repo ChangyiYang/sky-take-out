@@ -32,7 +32,7 @@ logging:
         controller: info
     org:
       apache:
-        ibatis: TRACE
+        ibatis: Debug
       mybatis:
         spring:
           boot:
